@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deveops_check_submodule.iml" filepath="$PROJECT_DIR$/.idea/deveops_check_submodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/devops_check_submodule.iml" filepath="$PROJECT_DIR$/.idea/devops_check_submodule.iml" />
     </modules>
   </component>
 </project>
